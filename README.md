@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Ramírez</h1>
 <h3 align="center">A passionate frontend developer from Cuba</h3>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **jonathanrruci@gmail.com**
 
