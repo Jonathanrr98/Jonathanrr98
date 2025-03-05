@@ -1,19 +1,43 @@
-<h1 align="center">Hi there, I'm Jonathan! 👋</h1>
+## 👋 Hi! I'm Jonathan Ramírez  
+### Web Developer | React | JavaScript | Backend in Progress 🚀
 
-🌐 About Me
-I'm a passionate developer with a focus on front-end development. I enjoy building responsive, user-friendly applications using the latest web technologies.
+I'm passionate about technology and web development, with 2 years of experience building scalable and efficient applications. Currently, I'm expanding my knowledge in **Java** for mobile development and backend with JavaScript.
 
-🎯 Goals: Contribute to open-source projects and expand my skills in front-end development.
-💬 Ask me about: JavaScript, CSS, and front-end best practices.
+---
 
-🛠️ Skills
-Languages: JavaScript, HTML, CSS, python.
-Libraries/Frameworks: React,Django.
-Tools: Git, GitHub, VS Code
+### 🚀 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
+💻 **Frontend:** React.js, JavaScript, TypeScript, HTML5, CSS3, Sass, Bootstrap, MUI  
+🛠 **Backend:** Node.js (learning)  
+🗄 **Databases:** PostgreSQL  
+🔗 **APIs:** RESTful, JSON  
+🛠 **Version Control:** Git, GitHub  
+📱 **Mobile Development:** Java (learning)  
 
-LinkedIn:www.linkedin.com/in/jonathan-ramirez-r
+---
 
+### 🔥 Featured Projects
 
-Email: jonathanrruci@gmail.com
+📌 [**Project 1**](#) - Brief description of the project and technologies used.  
+📌 [**Project 2**](#) - Brief description of the project and technologies used.  
+📌 [**Project 3**](#) - Brief description of the project and technologies used.  
+
+💡 **More projects on my [GitHub](https://github.com/Jonathanrr98)**
+
+---
+
+### 📊 GitHub Stats
+
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathanrr98&show_icons=true&theme=radical)
+
+---
+
+### 🌎 Connect with Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/jonathan-ramirez-r)  
+📷 [Instagram](https://www.instagram.com/wenas_nochesj/)  
+📧 **Email:** jonathanrruci@gmail.com  
+
+---
+
+Always open to new opportunities and collaborations! 🚀
